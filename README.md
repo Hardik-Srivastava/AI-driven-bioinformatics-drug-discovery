@@ -13,11 +13,11 @@ This project aims to utilize bioinformatics techniques for drug discovery, speci
 ## Screenshots Explanation
 
 ### 1. Chemical Structure Using SMILES Notation
-![Chemical Structure](screenshots/chemical_structure.png)
+![Chemical Structure](screenshots/smiles_notation.png)
 This screenshot displays the chemical structure of a compound represented using the Simplified Molecular Input Line Entry System (SMILES) notation. SMILES is a string representation of a chemical structure, providing a compact and human-readable format for molecular structures.
 
 ### 2. Graph Showing Bioactivity
-![Bioactivity Graph](screenshots/bioactivity_graph.png)
+![Bioactivity Graph](screenshots/classification_of_compounds.png)
 The graph illustrates the bioactivity of compounds based on their classification as active or inactive. Bioactivity refers to the ability of a compound to exert a specific biological effect, such as inhibiting a target protein associated with a disease. This graph helps in visualizing the distribution of active and inactive compounds in the dataset.
 
 ### 3. Dataset with PubChem Representation
@@ -25,6 +25,6 @@ The graph illustrates the bioactivity of compounds based on their classification
 This screenshot presents a portion of the dataset with representations of chemical compounds using PubChem Compound Identifiers. PubChem is a database of chemical molecules maintained by the National Center for Biotechnology Information (NCBI). The dataset contains various attributes of compounds, including molecular properties and bioactivity information.
 
 ### 4. Predicted vs. Experimental pIC50 Value
-![Predicted vs. Experimental pIC50](screenshots/Random_Forest_Regressor_Output_and_results.png)
+![Predicted vs. Experimental pIC50](screenshots/results.png)
 The screenshot compares the predicted and experimental pIC50 values of compounds. pIC50 is a measure of the potency of a compound in inhibiting a biological target, commonly used in drug discovery. This visualization helps assess the performance of machine learning models in predicting bioactivity, by comparing their predictions with experimental data.
 
