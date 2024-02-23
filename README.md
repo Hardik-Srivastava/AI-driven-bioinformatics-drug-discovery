@@ -10,7 +10,7 @@ This project aims to utilize bioinformatics techniques for drug discovery, speci
 - **results**: Holds the results of bioactivity prediction experiments.
 - **README.md**: This file provides an overview of the project and instructions for usage.
 
-## Screenshots Explanation
+## Screenshots
 
 ### 1. Chemical Structure Using SMILES Notation
 ![Chemical Structure](screenshots/smiles_notation.png)
